@@ -1,4 +1,6 @@
-Hi, Ayooluwa here... your legal QA Engineer ;-)<br>i design scalable test automation systems<br>Shipping quality with data-driven confidence
+Hello, i am Ayooluwa, QA Engineer ;-)
+<br>i design scalable test automation systems<br>
+that ship quality with data-driven confidence
 
 
 ## 🌐 Socials:
