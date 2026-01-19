@@ -4,6 +4,7 @@
 +++ that ship quality with data-driven confidence
 ```
 
+![be057e3ef55703d47dcd2b1709cb6fb5](https://github.com/user-attachments/assets/2aa52030-6efc-4756-9a94-7747c9a3af15)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nox_l19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayooluwa-paul-b190b3272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:obembeayooluwa.work@gmail.com) 
@@ -17,6 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=sphinx010&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ---
+
 ![](https://nirzak-streak-stats.vercel.app/?user=sphinx010&theme=dark&hide_border=false)<br/>
 
 ---
@@ -28,5 +30,6 @@
 
 ---
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[aef33396da018494c041d19e40addec7](https://github.com/user-attachments/assets/e289df9f-aa94-4d2c-9f5f-b50e567ccd57)
+<!-- Pr!
+oudly created with GPRM ( https://gprm.itsvg.in ) -->
