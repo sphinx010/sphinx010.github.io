@@ -1,6 +1,6 @@
 ## Hello, i am Ayooluwa, QA Engineer ;-)
 ```diff
- i design scalable test automation systems
++ i design scalable test automation systems
 ```
 ## that ship quality with data-driven confidence
 
