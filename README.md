@@ -1,7 +1,8 @@
-Hello, i am Ayooluwa, QA Engineer ;-)
-<br>i design scalable test automation systems<br>
-that ship quality with data-driven confidence
-
+```
++ ## Hello, i am Ayooluwa, QA Engineer ;-)
++ ###<br>**i design scalable test automation systems**<br>
++ ### *that ship quality with data-driven confidence*
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nox_l19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayooluwa-paul-b190b3272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:obembeayooluwa.work@gmail.com) 
